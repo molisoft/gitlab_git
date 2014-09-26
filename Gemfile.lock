@@ -4,7 +4,7 @@ PATH
     gitlab_git (7.0.0.rc2)
       activesupport (~> 3.2.16)
       charlock_holmes (~> 0.6)
-      gitlab-linguist (~> 2.9.1)
+      gitlab-linguist (~> 3.0.0)
       rubyzip (~> 1.1)
       rugged (~> 0.21.0)
 
